@@ -1,2 +1,2 @@
 # Shop_Django_Py
-E-commerce Shops network
+E-commerce Development
